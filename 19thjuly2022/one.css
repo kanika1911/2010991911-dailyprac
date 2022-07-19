@@ -1,0 +1,20 @@
+
+body{
+    background: linear-gradient(
+        to top,
+        rgb(209, 209, 226),
+        rgb(10, 10, 14)
+    );
+    font-size:1.5em;
+    text-align: justify;
+}   
+p{
+    color:white;
+}
+#h1{
+    color: red;
+}
+#h2{
+    color:pink;
+}
+
